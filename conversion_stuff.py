@@ -15,7 +15,7 @@ def binary_to_decimal(b:str) -> int:
 
 print('1010'[1:])
 
-print(binary_to_decimal('1010'))
+#print(binary_to_decimal('1010'))
 
 #print(decimal_to_binary(3))
 # Test cases
